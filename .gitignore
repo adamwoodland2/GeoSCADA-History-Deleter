@@ -1,0 +1,33 @@
+# Build output. Run build.ps1 to regenerate.
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Schneider Electric ClientAPI.chm and any other supplied reference material.
+# Not ours to redistribute; it comes with the Geo SCADA installation.
+References/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+*.csproj.user
+
+# Windows / OneDrive noise
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Scratch and local-only files
+*.log
+*.tmp
+*.bak
+scratch/
