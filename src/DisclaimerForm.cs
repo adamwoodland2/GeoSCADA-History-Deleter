@@ -13,7 +13,7 @@ namespace HistoryDeleter
         private const string Text_ =
 @"------------------------------------------------------------------------------
  Geo SCADA History Deleter   Copyright (C) 2026  Adam Woodland
- Licensed under the GNU GPL v3. This is free software, and you are welcome to
+ Licensed under the MIT Licence. This is free software, and you are welcome to
  redistribute it under those conditions.
 
  DISCLAIMER

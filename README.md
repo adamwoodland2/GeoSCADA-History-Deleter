@@ -187,5 +187,8 @@ restore is needed — just Windows and the Geo SCADA client for the reference as
   "deletes the wrong record".
 - Deletion is permanent. There is no undo, in this tool or in Geo SCADA.
 - The disclaimer text is modelled on the one in
-  [Get-VvxScadaSessions](https://github.com/adamwoodland2/GeoSCADA-Get-VvxScadaSessions). It refers
-  to the GNU GPL v3; add a `LICENSE` file alongside the tool if you distribute it.
+  [Get-VvxScadaSessions](https://github.com/adamwoodland2/GeoSCADA-Get-VvxScadaSessions).
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
